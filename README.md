@@ -56,11 +56,8 @@ python main.py
 ---------------------------------------------
 No   Nama           NIM             Nilai
 ---------------------------------------------
-1    Andi           312510001       85
-2    Budi           312510002       90
+1    Damar          312510189       85
+2    Budi           312510187       90
 ---------------------------------------------
 Video penjelasan dan demo program dapat diakses melalui link berikut:
-YouTube: (isi link video di sini)
-
-Repository GitHub
-GitHub: (isi link repository di sini)
+YouTube: ((https://youtu.be/kBWC04cq1Rk))
