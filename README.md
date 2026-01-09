@@ -31,6 +31,7 @@ Program berjalan pada **Command Line Interface (CLI)** dan mampu menerima input 
 #Struktur Program
 
 #Penjelasan File
+
 **data.py**  
   Berisi class `Mahasiswa` yang menyimpan atribut nama, NIM, dan nilai.
 
